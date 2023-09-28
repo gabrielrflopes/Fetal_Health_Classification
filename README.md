@@ -1,8 +1,12 @@
 # Classificação de Saúde Fetal com AutoML
 
+<sub>TAGS: Pandas, Numpy, Matplotlib, Seaborn, PyCaret, Scikit-learn, GridSearchCV, Pipelines, Logistic Regression, Random Forests, SVM, Extra Trees, Linear Discriminant Analysis, Precision-Recall
+
 <p align="center">
   <img src="capa_p6.png" >
 </p>
+
+> **Acesse o projeto completo aqui: [Notebook do Projeto]()**
 
 ## Contexto
 
@@ -63,3 +67,5 @@ Da parte de inteligência de dados, modelos de classificação como o **Extra Tr
 O CTG é um exame bem difundido para a análise da saúde fetal, de modo que mais dados de exames melhorariam a performance dos modelos de classificação. Com mais dados, podemos **testar a robustez do modelo em identificar tendências nas variáveis**, buscando sempre **diminuir os erros de falsos negativos** para nenhum caso de risco fique sem tratamento. Pode-se trabalhar na construção de mais atributos para o CTG, trabalhando em colaboração com médicos e ouvindo as queixas e sintomas das mães. 
 
 Por fim, apesar de termos explorado bem os efeitos dos batimentos cardíacos e taxas de aceleração na saúde fetal, não foram explorados as medidas de histograma do exame, nem o que significam seus valores no contexto da previsão de problemas para o bebê.
+
+<sub>[Retornar ao Portfólio](https://github.com/gabrielrflopes/Data-Science-Portfolio)
