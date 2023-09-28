@@ -10,7 +10,9 @@
 
 ## Contexto
 
-A mortalidade de bebês durante o período de gestação é um problema que exige coordenação de diversas áreas, não somente da saúde. Desde a assistência social, infraestrutura de transporte, até o desenvolvimento de tecnologias e metodologias para **identificação, prevenção e tratamento das complicações que ocorrem durante a gravidez**.
+A mortalidade de bebês durante o período de gestação é um problema que exige coordenação de diversas áreas, não somente da saúde. É necessário a coordenação de áreas que vão desde a assistência social, infraestrutura de transporte, até o desenvolvimento de tecnologias e metodologias para **identificação, prevenção e tratamento das complicações que ocorrem durante a gravidez**.
+
+De acordo com o Centro Nacional de Estatísticas para Saúde dos EUA, aproximadamente **1 milhão de mortes de bebês não-nascidos ocorrem todos os anos no país**, com quase 26 mil mortes ocorrendo acima das 20 semanas de gestação. A taxa de mortalidade fetal tem se estabilizado nos últimos anos, chegando a **5,68 óbitos por cada 1000 nascimentos totais em 2021**. No Brasil, esse valor é ainda mais alto, chegando a **9,50 óbitos por cada 1000 nascimentos totais em 2015**.
 
 O óbito fetal é um problema sério que tem, além da perda da vida do bebê, consequências diretas na saúde da mãe, devido ao trauma e aos riscos inerentes à condição da morte do bebê. A **mortalidade maternal** é também uma grande preocupação, visto que cerca de **296 mil mortes ocorrem durante e após a gravidez, em dados de 2017 nos EUA**. Desse número, **cerca de 94% morrem por falta de recursos médicos e acompanhamento**. Trata-se, portanto, de um problema grave e que pode ser previnido com inteligência e bom gerenciamento de recursos.
 
