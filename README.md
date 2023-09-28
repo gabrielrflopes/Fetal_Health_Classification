@@ -6,7 +6,7 @@
   <img src="capa_p6.png" >
 </p>
 
-> **Acesse o projeto completo aqui: [Notebook do Projeto]()**
+> **Acesse o projeto completo aqui: [Notebook do Projeto](https://github.com/gabrielrflopes/Fetal_Health_Classification/blob/main/PROJETO_Classifica%C3%A7%C3%A3o_de_Sa%C3%BAde_Fetal.ipynb)**
 
 ## Contexto
 
