@@ -8,6 +8,8 @@
 
 > **Acesse o projeto completo aqui: [Notebook do Projeto](https://github.com/gabrielrflopes/Fetal_Health_Classification/blob/main/PROJETO_Classifica%C3%A7%C3%A3o_de_Sa%C3%BAde_Fetal.ipynb)**
 
+> **Acesse o artigo do projeto aqui: [Medium](https://medium.com/@grflopes/machine-learning-aplicado-ao-diagn%C3%B3stico-de-sa%C3%BAde-fetal-d470b4e321c1)**
+
 ## Contexto
 
 A mortalidade de bebês durante o período de gestação é um problema que exige coordenação de diversas áreas, não somente da saúde. É necessário a coordenação de áreas que vão desde a assistência social, infraestrutura de transporte, até o desenvolvimento de tecnologias e metodologias para **identificação, prevenção e tratamento das complicações que ocorrem durante a gravidez**.
